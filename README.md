@@ -1,2 +1,2 @@
 # snowFreak
-Lite MVC PHP framework
+Lite MVC Go+PHP REST API framework
